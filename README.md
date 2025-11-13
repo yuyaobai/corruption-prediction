@@ -1,6 +1,6 @@
 ### About this Project
 
-This project is part of the LSE's [DS202W Data Science for Social Scientists](https://lse-dsi.github.io/DS202/2024/winter-term/) course. Using a data set on economic indicators and press freedom, the aim of this project is to classify countries according to their level of corruption. To do this, I ran several classification models, tuned their hyperparameters, and evaluated and interpreted their performance metrics in the context of the dataset. 
+This project is part of the LSE's [DS202W Data Science for Social Scientists](https://lse-dsi.github.io/DS202/2024-2025/winter-term/) course. Using a data set on economic indicators and press freedom, the aim of this project is to classify countries according to their level of corruption. To do this, I ran several classification models, tuned their hyperparameters, and evaluated and interpreted their performance metrics in the context of the dataset. 
 
 The sections below are taken from the project's prompt.
 
